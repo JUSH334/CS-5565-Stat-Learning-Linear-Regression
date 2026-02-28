@@ -4,3 +4,5 @@ Scripts for Stat Learning: Linear Regression Lab.
 Assisted by LLM. 
 
 Generative model used: Claude
+
+Conversation Transcript found in submitted PDF.
